@@ -1,8 +1,7 @@
-# Fabric Example Mod
+# SmpConnect
 
-## Setup
-
-For setup instructions please see the [fabric wiki page](https://fabricmc.net/wiki/tutorial:setup) that relates to the IDE that you are using.
+## Info
+A simple(not sure i didnt start coding it yet) for my school SMP
 
 ## License
 
