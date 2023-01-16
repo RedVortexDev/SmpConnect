@@ -1,7 +1,7 @@
 {
 	"required": true,
 	"minVersion": "0.8",
-	"package": "me.redcommand.smpconnect.mixin",
+	"package": "me.redvortex.smpconnect.mixin",
 	"compatibilityLevel": "JAVA_17",
 	"mixins": [],
 	"client": ["ExampleMixin"],

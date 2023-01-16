@@ -1,6 +1,6 @@
 {
 	"schemaVersion": 1,
-	"id": "modid",
+	"id": "smpconnect",
 	"version": "${version}",
 
 	"name": "SMP Connect",
@@ -11,12 +11,13 @@
 		"sources": "https://github.com/FabricMC/fabric-example-mod"
 	},
 
-	"license": "CC0-1.0",
+	"license": "MIT License",
 	"icon": "assets/smpconnect/icon.png",
 
 	"environment": "*",
 	"entrypoints": {
-		"main": ["me.redvortex.smpconnect.SMPConnect"]
+		"main": ["me.redvortex.smpconnect.SMPConnect"],
+		"client": ["me.redvortex.smpconnect.SMPConnectClient"]
 	},
 	"mixins": ["smpconnect.mixins.json"],
 
