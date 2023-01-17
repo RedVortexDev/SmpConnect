@@ -7,11 +7,10 @@
 	"description": "Mod for SMP",
 	"authors": ["RedVortex_"],
 	"contact": {
-		"homepage": "https://fabricmc.net/",
-		"sources": "https://github.com/FabricMC/fabric-example-mod"
+		"sources": "https://github.com/RedVortexDev/SmpConnect"
 	},
 
-	"license": "MIT License",
+	"license": "Creative Commons Attribution NonCommercial (CC-BY-NC)",
 	"icon": "assets/smpconnect/icon.png",
 
 	"environment": "*",
